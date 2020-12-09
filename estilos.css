@@ -1,0 +1,43 @@
+h1{
+    font-style: italic;
+    color:aqua;
+    font-family:"Lucida Handwriting";
+    }
+   h2{
+   font-family:"Rockwell";	
+   color:cornflowerblue;
+   }
+   
+   h2{
+       font-family:"Rockwell";	
+       color:cornflowerblue;
+       
+   }
+   
+   h3{
+       font-family:Rockwell ;
+       color:dodgerblue;
+       font-weight:bold;
+   }
+   h3{
+       font-family:Rockwell ;
+       color:dodgerblue;
+       font-weight:bold;
+   }
+   h3{
+       font-family:Rockwell ;
+       color:dodgerblue;
+       font-weight:bold;
+   }
+   
+footer{
+    font-style: italic;
+    color:purple;
+    font-family:"Lucida Handwriting";
+    }
+  p{
+    font-family:Rockwell ;
+    color:rebeccapurple;
+    font-weight:bold;
+}
+  
